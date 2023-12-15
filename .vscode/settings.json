@@ -1,0 +1,5 @@
+{
+    "cody.commandCodeLenses": true,
+    "cody.debug.enable": true,
+    "cody.autocomplete.formatOnAccept": true
+}
